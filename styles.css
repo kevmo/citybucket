@@ -1,0 +1,36 @@
+* {
+  font-family: helvetica, sans-serif;
+}
+
+.Title {
+  background: #0E57FF;
+  color: white;
+  text-align: center;
+  max-height: 200px;
+  line-height: 200px;
+  text-transform: uppercase;
+}
+
+.Main {
+  width: 80vw;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#Water li {
+  text-transform: uppercase;
+}
+
+#Water p {
+  text-transform: capitalize;
+}
+
+#SignUp input,
+#SignUp button {
+  display: block;
+  height: 3em;
+  width: 300px;
+  font-size: 1em;
+  margin: 0 auto;
+  margin-bottom: 1em;
+}

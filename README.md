@@ -1,2 +1,3 @@
 # citybucket
-First assignment.
+
+Using the DOM to interpolate data.
